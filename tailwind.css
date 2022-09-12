@@ -615,6 +615,10 @@ video {
   width: 50%;
 }
 
+.w-5 {
+  width: 1.25rem;
+}
+
 .resize-y {
   resize: vertical;
 }
@@ -716,6 +720,10 @@ video {
   padding-top: 2.5rem;
 }
 
+.pb-36 {
+  padding-bottom: 9rem;
+}
+
 .pt-8 {
   padding-top: 2rem;
 }
@@ -730,6 +738,10 @@ video {
 
 .pt-6 {
   padding-top: 1.5rem;
+}
+
+.pr-4 {
+  padding-right: 1rem;
 }
 
 .pt-4 {
